@@ -1,0 +1,22 @@
+█ [ /home/hokagehimanshu/Desktop/MyShell ] cd /home/hokagehimanshu/Desktop/OS/trials/stringparsing.c
+Directory path '/home/hokagehimanshu/Desktop/OS/trials/stringparsing.c' does not exist
+
+█ [ /home/hokagehimanshu/Desktop/MyShell ] ls
+a.out
+code.c
+moss.pl
+myshell.c
+terminal.glue
+
+█ [ /home/hokagehimanshu/Desktop/MyShell ] ls
+a.out
+code.c
+moss.pl
+myshell.c
+terminal.glue
+
+█ [ /home/hokagehimanshu/Desktop/MyShell ] glue path
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/hokagehimanshu/OSpintos/pintos/src/utils
+
+█ [ /home/hokagehimanshu/Desktop/MyShell ] exit
+Bye Bye. ♥ Glue
